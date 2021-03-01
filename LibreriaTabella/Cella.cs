@@ -6,5 +6,6 @@ namespace LibreriaTabella
 {
     public class Cella
     {
+
     }
 }
